@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Nepal Engineering Council's certified engineer with registration number **8613**, and I have strong programming background in Python.
+I have been using Python for more than 3 years, among which more than 1.5+ years of experience is in actual software development industry.
+I have mainly worked on data analytics and visualiztion tools for desktop, and web environments using Python, its associated data science stacks, and PyQt/PySide desktop GUI framework, and React ecosystem for web applicaitons. I have good working experience on RESTful, and MVC applicaitons. I'm currently leading a small sized software development team working in Python Django, and React stack, where I work on system design, assign task to the team, monitor their progresses, help them when they are stuck, and I'm also actively working on the development part.
+
 <!--
 **bkhyat/bkhyat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
