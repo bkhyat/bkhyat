@@ -6,11 +6,12 @@
 * I have mainly worked on data analytics and visualiztion tools for desktop, and web environments using Python, its associated data science stacks, and PyQt/PySide desktop GUI framework, and React ecosystem for web applicaitons. I have good working experience on RESTful, and MVC applicaitons. 
 * I'm currently leading a small sized software development team working in **Python Django**, and **React** stack, where I work on system design, assign task to the team, monitor their progresses, help them when they are stuck, and I'm also actively working on the development part.
 
+<a href="https://stackoverflow.com/users/9136348/thepyguy"><img src="https://stackoverflow.com/users/flair/9136348.png?theme=dark" width="208" height="58" alt="profile for ThePyGuy at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for ThePyGuy at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 ![Bikhyat's github stats](https://github-readme-stats.vercel.app/api?username=bkhyat&show_icons=true&theme=radical)
 [![Bikhyat's top programming languages:](https://github-readme-stats.vercel.app/api/top-langs/?username=bkhyat)](https://github.com/bkhyat/github-readme-stats)
 
-<a href="https://stackexchange.com/users/12557088"><img src="https://stackexchange.com/users/flair/12557088.png" width="208" height="58" alt="profile for ThePyGuy on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for ThePyGuy on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
 
 ----------------------------------------------------------------
 - 🔭 I’m currently working on a RESTful data analytics and visulization tool development using Python Django, PostgreSQL, R, and React JS ecosystem.
