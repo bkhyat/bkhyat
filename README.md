@@ -6,7 +6,8 @@
 * I have mainly worked on data analytics and visualiztion tools for desktop, and web environments using Python, its associated data science stacks, and PyQt/PySide desktop GUI framework, and React ecosystem for web applicaitons. I have good working experience on RESTful, and MVC applicaitons. 
 * I'm currently leading a small sized software development team working in **Python Django**, and **React** stack, where I work on system design, assign task to the team, monitor their progresses, help them when they are stuck, and I'm also actively working on the development part.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bkhyat)](https://github.com/bkhyat/github-readme-stats)
+[![Bikhyat's top programming languages:](https://github-readme-stats.vercel.app/api/top-langs/?username=bkhyat)](https://github.com/bkhyat/github-readme-stats)
+![Bikhyat's github stats](https://github-readme-stats.vercel.app/api?username=bkhyat&show_icons=true&theme=radical)
 
 ----------------------------------------------------------------
 - 🔭 I’m currently working on a RESTful data analytics and visulization tool development using Python Django, PostgreSQL, R, and React JS ecosystem.
