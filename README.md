@@ -7,11 +7,7 @@
 * I'm currently leading a small sized software development team working in **Python Django**, and **React** stack, where I work on system design, assign task to the team, monitor their progresses, help them when they are stuck, and I'm also actively working on the development part.
 
 ## Contact
-Email: er.bikhyat@gmail.com
-Phone: +977-98-455-32932
-[LiinkedIn Profile](https://www.linkedin.com/in/bkhyat/)
-[Stackoverflow Profile](https://stackoverflow.com/users/9136348/thepyguy)
-[GitHubPage](bkhyat.github.io)
+Email: er.bikhyat@gmail.com | [LiinkedIn Profile](https://www.linkedin.com/in/bkhyat/) | [Stackoverflow Profile](https://stackoverflow.com/users/9136348/thepyguy) | [GitHubPage](bkhyat.github.io)
 
 [![Bikhyat's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9136348)](https://stackoverflow.com/users/9136348/thepyguy)
 [![Bikhyat's top programming languages:](https://github-readme-stats.vercel.app/api/top-langs/?username=bkhyat)](https://github.com/bkhyat/github-readme-stats)
