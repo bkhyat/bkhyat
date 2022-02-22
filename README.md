@@ -8,8 +8,8 @@
 
 
 [![Bikhyat's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9136348)](https://stackoverflow.com/users/9136348/thepyguy)
-![Bikhyat's github stats](https://github-readme-stats.vercel.app/api?username=bkhyat&show_icons=true&theme=radical)
 [![Bikhyat's top programming languages:](https://github-readme-stats.vercel.app/api/top-langs/?username=bkhyat)](https://github.com/bkhyat/github-readme-stats)
+![Bikhyat's github stats](https://github-readme-stats.vercel.app/api?username=bkhyat&show_icons=true&theme=radical)
 
 
 
