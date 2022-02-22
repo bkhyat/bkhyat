@@ -7,6 +7,7 @@
 * I'm currently leading a small sized software development team working in **Python Django**, and **React** stack, where I work on system design, assign task to the team, monitor their progresses, help them when they are stuck, and I'm also actively working on the development part.
 
 <a href="https://stackoverflow.com/users/9136348/thepyguy"><img src="https://stackoverflow.com/users/flair/9136348.png?theme=dark" width="208" height="58" alt="profile for ThePyGuy at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for ThePyGuy at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+[![Bikhyat's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9136348)](https://stackoverflow.com/users/9136348/thepyguy)
 
 ![Bikhyat's github stats](https://github-readme-stats.vercel.app/api?username=bkhyat&show_icons=true&theme=radical)
 [![Bikhyat's top programming languages:](https://github-readme-stats.vercel.app/api/top-langs/?username=bkhyat)](https://github.com/bkhyat/github-readme-stats)
