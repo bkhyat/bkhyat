@@ -17,7 +17,7 @@ Email: er.bikhyat@gmail.com | [LinkedIn Profile](https://www.linkedin.com/in/bkh
 ![Bikhyat's github stats](https://github-readme-stats.vercel.app/api?username=bkhyat&show_icons=true&theme=radical)
 
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bkhyat&repo=OCR-using-CNN)](https://github.com/bkhyat/OCR-using-CNN)
 ----------------------------------------------------------------
 - 🔭 I’m currently working on a RESTful data analytics and visulization tool development using Python Django, PostgreSQL, R, and React JS ecosystem.
 - 🌱 I’m currently diving more into Django Rest Frameworks, and React ecosystem.
