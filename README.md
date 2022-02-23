@@ -1,7 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=bkhyat&color=green)
-<p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Bikhyat. I'm a fullstack developer (Django + React)">
-</p>
+
 ### About Me
 
 * I'm Nepal Engineering Council's certified engineer with registration number **8613**, and I have strong programming background in Python.
