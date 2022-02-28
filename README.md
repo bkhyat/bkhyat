@@ -12,7 +12,7 @@
 
 ## Contact
 Email: er.bikhyat@gmail.com | [LinkedIn Profile](https://www.linkedin.com/in/bkhyat/) | [Stackoverflow Profile](https://stackoverflow.com/users/9136348/thepyguy) | [GitHubPage](https://bkhyat.github.io)
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 [![Bikhyat's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9136348)](https://stackoverflow.com/users/9136348/thepyguy)
 [![Bikhyat's top programming languages:](https://github-readme-stats.vercel.app/api/top-langs/?username=bkhyat&count_private=true)](https://github.com/bkhyat/)
 ![Bikhyat's github stats](https://github-readme-stats.vercel.app/api?username=bkhyat&show_icons=true&theme=radical)
